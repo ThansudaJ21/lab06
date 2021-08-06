@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+    web:
+        image: "622115015/lab6:latest"
+        ports: 
+            - 8003:80
